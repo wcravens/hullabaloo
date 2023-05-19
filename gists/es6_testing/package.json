@@ -1,0 +1,16 @@
+{
+  "name": "es6_testing",
+  "version": "0.0.1",
+  "description": "Demonstrate ES6 Module testing w/Mocha Chai",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
