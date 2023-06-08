@@ -1,0 +1,12 @@
+{
+  "name": "hullabaloo",
+  "version": "0.0.0",
+  "description": "A task, project, note and reference management system for digital content for ADHD super powers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Wes Cravens",
+  "license": "cc_by-nc-nd_4.0"
+}
