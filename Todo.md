@@ -1,4 +1,4 @@
-- [x] Documentation Browser with `npm docs` or something similar.
+- [.] Documentation Browser with `npm docs` or something similar.
   - This should launch a browser opened onto the `/README.md` file and allow the user to browser
     around via hyperlinks from there.
   - Try to provide tooling for an *'in-memory render-on-demand'* approach instead of using a
